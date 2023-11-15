@@ -1,0 +1,49 @@
+/* containers */
+
+.bg {
+    background-color: rgb(0, 0, 46);
+    color: white;
+    padding: 50px;
+}
+
+.bg1{
+    color:rgb(0, 0, 46) ;
+    box-shadow: 2px 4px 4px 1px rgb(124, 124, 145);
+    height: 100px;
+}
+
+.bg2{
+    box-shadow: 2px 4px 4px 1px rgb(192, 192, 206);
+}
+.box{
+    box-shadow: 2px 4px 4px 1px rgb(192, 192, 206);
+}
+/* columns */
+ol{
+    color: rgb(109, 91, 126)
+}
+.col1{
+    color:rgb(1, 1, 54)
+}
+.cols h5{
+    color: rgb(255, 0, 149);
+}
+.cols p{
+    color: rgba(131, 36, 118, 0.986);
+    font-weight: 500;
+}
+
+/* last footer */
+
+.last{
+    background-color: rgb(0, 0, 46);
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+}
+.last a{
+    color: white;
+    background-color: rgb(255, 0, 149);
+}
